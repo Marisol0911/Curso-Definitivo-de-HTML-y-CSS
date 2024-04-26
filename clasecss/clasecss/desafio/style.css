@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+background-color: green;
+border: 2px black ; 
+display: inline-block;
+width: 100px;
+height: 200px;
+position: absolute;
+}
+.hijo{
+display: inline-block;
+background-color: red;
+width: 100px;
+height: 100px;
+
+}

@@ -1,0 +1,43 @@
+*{
+    box-sizing:border-box ;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+ body{
+    font-size: 1.6rem;
+ }
+ .container{
+    border: 0.3rem solid black;
+    display: flex;
+    height: 50vh;
+    align-items: center;
+
+ }
+ .box{
+    width: 10rem;
+    height: 10rem;
+ }
+
+.box1{
+    background-color: bisque;
+    
+}
+.box2{
+    background-color: palevioletred;
+   
+}
+.box3{
+    background-color: pink;
+}
+.box4{
+    background-color: rosybrown;
+}
+.box5{
+    background-color: mediumvioletred;
+}
+.box5{
+    background-color: azure;
+}

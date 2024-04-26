@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+html{
+    font-size: 62.5%;
+}
+.parent{
+background-color: papayawhip;
+width:40vw;
+height:20vh;
+display: inline-block;
+font-size: 1.8rem;
+border: 2px black;
+position: relative ;
+top: 100px;
+left: 10px;
+border-radius: 20px;
+}
+
+.son{
+    width: 40%;
+    min-width: 100px;
+    max-width:500x;
+    height: 50px;
+    background-color: pink;
+    margin: 0 auto;
+    position: relative ;
+    top: -30px;
+    font-size: 1.8rem;
+    text-align: center;
+    border: 2px black; 
+    border-radius: 20px;
+}

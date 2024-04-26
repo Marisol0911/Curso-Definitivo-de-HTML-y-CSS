@@ -1,0 +1,53 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.header{
+background-color: aliceblue;
+padding: 10px;
+ margin: 10px;
+ height: 30px;
+}
+
+main{
+    background-color: peru;
+}
+
+.content{
+    background-color: antiquewhite;
+    display: block;
+    width: 160px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+.p{
+   
+}
+aside p{
+    background-color: pink;
+    width: 1200px;
+    height: 400px;
+    position: relative;
+    top:-420px;
+    left: 200px; 
+}
+.list{
+    text-align: right;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    top: -60px;
+
+}
+.list li{
+    color: black;
+    list-style:none ;
+    display: inline-block;
+}
+
+footer{
+background-color: brown;
+text-align: center;
+}
